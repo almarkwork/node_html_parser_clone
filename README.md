@@ -402,3 +402,4 @@ Get all attributes of current element. **Notice: do not try to change the return
 ### range
 
 Corresponding source code start and end indexes (ie [ 0, 40 ])
+# node_html_parser_clone
